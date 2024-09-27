@@ -13,7 +13,7 @@ void main (void)
     //I contador de numero actual
     //NUM límite, SUM suma de divisores C contador de numeros perfectos
 
-    printf ("\nIngrese ek numero limite: "); //solicita ingresar el numero límite
+    printf ("\nIngrese eL numero limite: "); //solicita ingresar el numero límite
     scanf ("%d", &NUM); //lee el numero limite y lo almacena en NUM
 
     for (I = 1; I <= NUM; I++) //se usa paraencontrar los divisores de I va hasta I/2
