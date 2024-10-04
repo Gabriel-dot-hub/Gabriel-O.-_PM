@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1728056787 source:c:\users\gabriel\desktop\reservas para git\calculo de precio de km por galon\km por galon programa\main.c
+	<stdio.h>
+	<math.h>
+
