@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1729455575 source:c:\users\gabriel\desktop\programación\gabriel-o.-_pm\programas cap 7\programa 7.8\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
