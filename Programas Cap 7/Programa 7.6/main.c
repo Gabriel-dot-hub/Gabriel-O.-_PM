@@ -24,7 +24,7 @@ void main(void)
     printf("\Prueba de la funcion strcpy. Se copia la cadena XX a cad1: %s\n", cad1);
 
 
-    strcpy(cad2, cad0);
+    strncpy(cad2, cad0, 4);
     cad2[4] = '\0';
     /* La función strncpy permite copiar un número determinado de caracteres a
     otra cadena de caracteres. En este caso se copian 4 caracteres de la cadena
@@ -35,7 +35,7 @@ void main(void)
 
     printf("\Prueba de la funcion strcpy. Se copian 4 caracteres de cad0 a cad2: %s\n", cad2);
 
-    strcpy(cad2, cad3);
+    strncpy(cad2, cad3, 3);
     cad2[3] = '\0';
     printf("\Prueba de la funcion strcpy. Se copian 3 caracteres de cad3 a cad2: %s\n", cad2);
 
