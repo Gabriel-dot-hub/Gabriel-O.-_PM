@@ -1,0 +1,1 @@
+Hola, estos son los caracteres agregados a libro.txt
