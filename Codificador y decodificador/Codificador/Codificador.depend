@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1732159179 source:c:\users\gabriel\desktop\programación\gabriel-o.-_pm\codificador y decodificador\codificador\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
