@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1732251662 source:c:\users\gabriel\desktop\programación\gabriel-o.-_pm\t_hanoi\torre de hanoi\main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
