@@ -1,0 +1,4 @@
+Edwin,10.00,Meca
+Criss,9.00,Meca
+Maria,8.00,Renovable
+Jeff,8.00,Meca
